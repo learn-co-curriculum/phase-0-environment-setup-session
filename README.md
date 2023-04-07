@@ -16,4 +16,4 @@ After this class you’ll get to the fun part, actual coding!
 
 ## [Sign Up Here!][env-setup]
 
-[env-setup]: https://www.eventbrite.com/e/free-tech-prep-class-get-your-computer-ready-to-code-tickets-603945877377
+[env-setup]: https://www.eventbrite.com/e/environment-setup-getting-your-computer-ready-to-code-tickets-612392160437
